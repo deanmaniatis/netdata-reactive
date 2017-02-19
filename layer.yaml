@@ -1,0 +1,8 @@
+"includes": ["layer:basic"]  # if you use any interfaces, add them here
+
+# Using the "packages" option from the basic layer which lets you
+# download packages required during bootstrapping of this charm
+
+#"options":
+#  "basic":
+#    "packages":
